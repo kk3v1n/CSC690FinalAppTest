@@ -1,7 +1,5 @@
 # CSC690FinalAppTest
 
-# CSC690FinalProject
-
 Kevin Karmacharya's Final Project for CSC 690 
 
 
@@ -21,7 +19,10 @@ Nice to Have Featues:
 Attributes / Resources / Sources:
 - https://youtu.be/Hn_MGvuYZdg - Adding Custom Pins to Map (Lets Code With Jack Hoskins)
 - https://youtu.be/y3UjZ8S_Eu4 - Show User's Location on Map (Lets Code With Jack Hoskins)
+- https://youtu.be/DHpL8yz6ot0 - Swift: Custom Map Pin Annotations (iOS Academy)
 - https://youtu.be/m6EH-JlCLsQ - Tic Tac Toe (Code with Cal)
+- stackoverflow
+- in class videos
 
 
 Low Fidelity Wire Frames: (Using Figma)
