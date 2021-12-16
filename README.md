@@ -1,5 +1,6 @@
-# CSC690FinalAppTest
+# CSC690FinalAppTest (THIS IS JUST A TESTING REPO)
 
+(THIS IS JUST A TESTING REPO)
 Kevin Karmacharya's Final Project for CSC 690 
 
 
